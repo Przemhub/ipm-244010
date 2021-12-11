@@ -31,7 +31,7 @@
   <label for="data">Data:</label>
   <input type="date" id="data" name="data"><br><br>
   <label for="tydzien">Data z tego tygodnia</label>
-  <input type="week" id="tydzien" name="tydzien" min="2021-W50" max="2021-W50"><br><br>
+  <input type="week" id="tydzien" name="tydzien" min="2021-W50-1" max="2021-W50-5"><br><br>
   <label for="kolor">Kolor:</label>
   <input type="color" id="kolor" name="kolor"><br><br>
   <label for="zegar">Zegar:</label>
